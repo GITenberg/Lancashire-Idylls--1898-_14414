@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '5509'
     url: http://www.gutenberg.org/2009/agents/5509
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14414#Lancashire-Idylls--1898-
 gutenberg_issued: '2004-12-22'
 gutenberg_type: Text
 identifiers:
